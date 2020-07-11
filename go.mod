@@ -1,4 +1,4 @@
-module github.com/CapChrisCap/color
+module github.com/CapChrisCap/go-color
 
 go 1.13
 
